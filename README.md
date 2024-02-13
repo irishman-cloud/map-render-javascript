@@ -1,4 +1,4 @@
-# Irishman Map Render's Javascript SDK
+# ![Irishman Map Render's Javascript SDK](https://raw.githubusercontent.com/irishman-cloud/map-render-javascript/master/.github/banner.svg)
 
 Take a photo of the world.
 
