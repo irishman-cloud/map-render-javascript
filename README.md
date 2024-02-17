@@ -1,6 +1,9 @@
 # ![Irishman Map Render's JavaScript SDK](https://raw.githubusercontent.com/irishman-cloud/map-render-javascript/master/.github/banner.svg)
 
-Take a photo of the world.
+[![MIT License](https://img.shields.io/github/license/irishman-cloud/map-render-javascript)](https://github.com/irishman-cloud/map-render-javascript)
+[![Issue Count](https://img.shields.io/gitea/issues/open/irishman-cloud/map-render-javascript)](https://github.com/irishman-cloud/map-render-javascript/issues)
+
+<b align="center">Take a photo of the world.</b>
 
 ## Table of Contents
 
